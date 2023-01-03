@@ -1,0 +1,1 @@
+{"ast":null,"code":"// =============================\n// Email: info@ebenmonney.com\n// www.ebenmonney.com/templates\n// =============================\nexport class UserLogin {\n  constructor(userName, password, rememberMe) {\n    this.userName = userName;\n    this.password = password;\n    this.rememberMe = rememberMe;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

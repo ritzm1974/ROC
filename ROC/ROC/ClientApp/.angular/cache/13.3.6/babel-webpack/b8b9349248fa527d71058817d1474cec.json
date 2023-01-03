@@ -1,0 +1,1 @@
+{"ast":null,"code":"// =============================\n// Email: info@ebenmonney.com\n// www.ebenmonney.com/templates\n// =============================\nexport class Role {\n  constructor(name, description, permissions) {\n    this.name = name;\n    this.description = description;\n    this.permissions = permissions;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
